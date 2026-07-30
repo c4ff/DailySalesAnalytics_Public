@@ -1,0 +1,13 @@
+# Data files
+*.csv
+*.db
+
+# Power BI files
+*.pbix
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
