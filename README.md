@@ -39,7 +39,7 @@ Sales analytics project analyzing daily restaurant transaction data. The project
 ## Dashboard Preview
 
 See:
-`Images/Daily_Sales_Analytics.pdf`
+`Images/Daily_Sales_Analytics.png`
 
 ## Repository Structure
 
