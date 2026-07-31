@@ -13,7 +13,7 @@
 
 ## Overview
 
-Sales analytics project analyzing daily restaurant transaction data. The project demonstrates a complete analytics workflow including data cleaning and database development using Python; SQL analysis, and PowerBI dashboard visualization.
+Sales analytics project analyzing daily restaurant transaction data. The project demonstrates a complete analytics workflow including data cleaning and database development using Python; SQL analysis, and Power BI dashboard visualization.
 
 ## Tools Used
 
