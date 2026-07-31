@@ -1,5 +1,14 @@
 # Holy Cow Sales Analytics Dashboard
 
+## Key Insights
+
+- Identified Mon–Thu as lower Net Sales weekdays; recommend evaluating targeted weekday promotions or marketing campaigns to improve traffic.
+
+- Identified August as the highest Net Sales month; analyze peak-period factors and replicate successful strategies.
+
+- Identified February as the lowest Net Sales per Order month; recommend testing value-focused offerings or bundles to increase average order value.
+
+
 ## Overview
 
 Sales analytics project analyzing daily restaurant transaction data. The project demonstrates a complete analytics workflow including data cleaning and database development using Python; SQL analysis, and PowerBI dashboard visualization.
