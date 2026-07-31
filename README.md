@@ -1,5 +1,7 @@
 # Holy Cow Sales Analytics Dashboard
 
+![Sales Dashboard](Images/Daily_Sales_Analytics.png)
+
 ## Key Insights
 
 - Identified Mon–Thu as lower Net Sales weekdays; recommend evaluating targeted weekday promotions or marketing campaigns to improve traffic.
@@ -12,6 +14,13 @@
 ## Overview
 
 Sales analytics project analyzing daily restaurant transaction data. The project demonstrates a complete analytics workflow including data cleaning and database development using Python; SQL analysis, and PowerBI dashboard visualization.
+
+## Tools Used
+
+- Python (Pandas) — data cleaning and preprocessing
+- SQLite — database development and storage
+- SQL — business analysis and KPI queries
+- Power BI — dashboard development and visualization
 
 ## Project Workflow
 
