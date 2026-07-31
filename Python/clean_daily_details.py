@@ -1,3 +1,11 @@
+"""
+Clean raw daily restaurant sales data for downstream analysis.
+
+The script selects analysis-ready fields, validates dates, converts currency
+values to numeric types, standardizes order counts, and exports the cleaned
+dataset to ``data/cleaned/daily_sales_cleaned.csv``.
+"""
+
 import pandas as pd
 
 

@@ -1,3 +1,11 @@
+"""
+Export a Power BI-ready dataset from the SQLite analytics database.
+
+The script queries the ``daily_sales`` table, derives a readable weekday
+dimension from each transaction date, and writes the result to
+``data/cleaned/daily_sales_powerbi.csv`` for dashboard development.
+"""
+
 import sqlite3
 import pandas as pd
 

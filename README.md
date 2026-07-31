@@ -47,6 +47,16 @@ Sales analytics project analyzing daily restaurant transaction data. The project
      - Sales performance by weekday
      - Top-performing periods
 
+## SQL Analysis
+
+The SQL workflow in `SQL/daily_sales_analysis.sql` includes:
+
+- Creating a reusable weekday view for time-based analysis
+- Calculating total gross sales, net sales, closed orders, and average order value
+- Aggregating monthly sales trends and weekday performance
+- Tracking daily average order value over time
+- Identifying the five highest- and lowest-performing sales days
+
 ## Tools Used
 
 - Python (Pandas)

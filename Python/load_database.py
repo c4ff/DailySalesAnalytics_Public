@@ -1,3 +1,11 @@
+"""
+Load the cleaned daily sales dataset into SQLite.
+
+The script reads ``data/cleaned/daily_sales_cleaned.csv`` and replaces the
+``daily_sales`` table in ``data/database/daily_sales_analysis.db`` so the
+latest prepared data is available for SQL analysis.
+"""
+
 import pandas as pd
 import sqlite3
 
