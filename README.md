@@ -1,4 +1,4 @@
-# Holy Cow Sales Analytics Dashboard
+# Business Performance Analytics
 
 ![Sales Dashboard](Images/Daily_Sales_Analytics.png)
 
